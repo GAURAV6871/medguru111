@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Med Guru</string>
+    <string name="title_activity_first_page">FirstPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Med Guru</string>
+    <string name="nav_header_subtitle">Because Guru knows the Best</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bot_content">Guru will tell you about app. In this app you will be able to find various effective medicines, sanitary items, quick aids at best price and from trusted sources.</string>
+
+    <string name="menu_home">Medicine</string>
+    <string name="menu_gallery">Quick Aid</string>
+    <string name="menu_slideshow">Surgical Services</string>
+    <string name="menu_sanitary">Sanitary Items</string>
+</resources>

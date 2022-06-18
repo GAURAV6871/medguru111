@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084023760105",
+    "project_id": "med-guru-d3d3b",
+    "storage_bucket": "med-guru-d3d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084023760105:android:1395ddbd28a18e262e7c78",
+        "android_client_info": {
+          "package_name": "com.example.medguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084023760105-jjlulib72d62mc2c0f9583itbckgtdlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-RRjokjVa6CsB3jzl6KEk_lJDGLwAbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084023760105-jjlulib72d62mc2c0f9583itbckgtdlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
